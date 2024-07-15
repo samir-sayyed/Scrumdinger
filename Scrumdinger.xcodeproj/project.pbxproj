@@ -19,6 +19,7 @@
 		4764B1652C42EEA500815053 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4764B1642C42EEA500815053 /* Theme.swift */; };
 		4764B1672C43BE7A00815053 /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4764B1662C43BE7A00815053 /* TrailingIconLabelStyle.swift */; };
 		4764B1692C43C9FC00815053 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4764B1682C43C9FC00815053 /* ScrumsView.swift */; };
+		476FF2382C4575BA00EB7E8A /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 476FF2372C4575BA00EB7E8A /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		4764B1642C42EEA500815053 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
 		4764B1662C43BE7A00815053 /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		4764B1682C43C9FC00815053 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
+		476FF2372C4575BA00EB7E8A /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				4764B1552C42ECDB00815053 /* CardView.swift */,
 				4764B1662C43BE7A00815053 /* TrailingIconLabelStyle.swift */,
 				4764B1682C43C9FC00815053 /* ScrumsView.swift */,
+				476FF2372C4575BA00EB7E8A /* DetailView.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -281,6 +284,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4764B1252C42D92000815053 /* ContentView.swift in Sources */,
+				476FF2382C4575BA00EB7E8A /* DetailView.swift in Sources */,
 				4764B1672C43BE7A00815053 /* TrailingIconLabelStyle.swift in Sources */,
 				4764B1232C42D92000815053 /* ScrumdingerApp.swift in Sources */,
 				4764B1692C43C9FC00815053 /* ScrumsView.swift in Sources */,
