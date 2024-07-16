@@ -19,6 +19,7 @@
 		4764B1652C42EEA500815053 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4764B1642C42EEA500815053 /* Theme.swift */; };
 		4764B1672C43BE7A00815053 /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4764B1662C43BE7A00815053 /* TrailingIconLabelStyle.swift */; };
 		4764B1692C43C9FC00815053 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4764B1682C43C9FC00815053 /* ScrumsView.swift */; };
+		4769BDD12C46C96A00E1AFE8 /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4769BDD02C46C96A00E1AFE8 /* DetailEditView.swift */; };
 		476FF2382C4575BA00EB7E8A /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 476FF2372C4575BA00EB7E8A /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
@@ -55,6 +56,7 @@
 		4764B1642C42EEA500815053 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
 		4764B1662C43BE7A00815053 /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		4764B1682C43C9FC00815053 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
+		4769BDD02C46C96A00E1AFE8 /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DetailEditView.swift; path = Scrumdinger/DetailEditView.swift; sourceTree = SOURCE_ROOT; };
 		476FF2372C4575BA00EB7E8A /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -106,6 +108,7 @@
 		4764B1212C42D92000815053 /* Scrumdinger */ = {
 			isa = PBXGroup;
 			children = (
+				4769BDD02C46C96A00E1AFE8 /* DetailEditView.swift */,
 				4764B14E2C42E7B800815053 /* Models */,
 				4764B14C2C42E77000815053 /* Assets.xcassets */,
 				4764B1222C42D92000815053 /* ScrumdingerApp.swift */,
@@ -285,6 +288,7 @@
 			files = (
 				4764B1252C42D92000815053 /* ContentView.swift in Sources */,
 				476FF2382C4575BA00EB7E8A /* DetailView.swift in Sources */,
+				4769BDD12C46C96A00E1AFE8 /* DetailEditView.swift in Sources */,
 				4764B1672C43BE7A00815053 /* TrailingIconLabelStyle.swift in Sources */,
 				4764B1232C42D92000815053 /* ScrumdingerApp.swift in Sources */,
 				4764B1692C43C9FC00815053 /* ScrumsView.swift in Sources */,
