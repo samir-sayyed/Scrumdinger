@@ -25,6 +25,7 @@
 		4783DB6B2C4BECC10079A351 /* ScrumProgressViewStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4783DB6A2C4BECC10079A351 /* ScrumProgressViewStyle.swift */; };
 		4783DB6D2C4BED3A0079A351 /* ScrumTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4783DB6C2C4BED3A0079A351 /* ScrumTimer.swift */; };
 		4783DB6F2C4BED690079A351 /* AVPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4783DB6E2C4BED690079A351 /* AVPlayer.swift */; };
+		4783DB712C4D75330079A351 /* MeetingFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4783DB702C4D75330079A351 /* MeetingFooterView.swift */; };
 		47EC1FDF2C4809E700D87BAA /* ThemeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47EC1FDE2C4809E700D87BAA /* ThemeView.swift */; };
 		47EC1FE12C480CD700D87BAA /* ThemePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47EC1FE02C480CD700D87BAA /* ThemePicker.swift */; };
 /* End PBXBuildFile section */
@@ -68,6 +69,7 @@
 		4783DB6A2C4BECC10079A351 /* ScrumProgressViewStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumProgressViewStyle.swift; sourceTree = "<group>"; };
 		4783DB6C2C4BED3A0079A351 /* ScrumTimer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumTimer.swift; sourceTree = "<group>"; };
 		4783DB6E2C4BED690079A351 /* AVPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AVPlayer.swift; sourceTree = "<group>"; };
+		4783DB702C4D75330079A351 /* MeetingFooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingFooterView.swift; sourceTree = "<group>"; };
 		47EC1FDE2C4809E700D87BAA /* ThemeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeView.swift; sourceTree = "<group>"; };
 		47EC1FE02C480CD700D87BAA /* ThemePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemePicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -178,6 +180,7 @@
 				4769BDD02C46C96A00E1AFE8 /* DetailEditView.swift */,
 				47EC1FE02C480CD700D87BAA /* ThemePicker.swift */,
 				4783DB6A2C4BECC10079A351 /* ScrumProgressViewStyle.swift */,
+				4783DB702C4D75330079A351 /* MeetingFooterView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -317,6 +320,7 @@
 				4783DB6D2C4BED3A0079A351 /* ScrumTimer.swift in Sources */,
 				4764B1252C42D92000815053 /* MeetingView.swift in Sources */,
 				476FF2382C4575BA00EB7E8A /* DetailView.swift in Sources */,
+				4783DB712C4D75330079A351 /* MeetingFooterView.swift in Sources */,
 				4783DB682C4BE8AF0079A351 /* MeetingHeaderView.swift in Sources */,
 				4769BDD12C46C96A00E1AFE8 /* DetailEditView.swift in Sources */,
 				4764B1672C43BE7A00815053 /* TrailingIconLabelStyle.swift in Sources */,
